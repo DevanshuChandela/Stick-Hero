@@ -1,8 +1,3 @@
-AP ENDSEM PROJECT 
-GROUP NUMBER - 47
-GROUP MEMBER 1 - Shashwat Chandra(2022471)
-GROUP MEMBER 2 - Keshav Bindlish(2022246)
-
 STICK HERO GAME
 
 About the code written:
