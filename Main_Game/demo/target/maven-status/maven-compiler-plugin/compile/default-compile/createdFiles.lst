@@ -1,0 +1,11 @@
+com\example\demo\ReviveController.class
+com\example\demo\ScoreManager.class
+com\example\demo\GameController.class
+com\example\demo\MainScreenController.class
+com\example\demo\Start.class
+com\example\demo\LastScreenController.class
+com\example\demo\BaseController.class
+com\example\demo\PauseController.class
+module-info.class
+com\example\demo\CherryManager.class
+com\example\demo\HighScore.class
